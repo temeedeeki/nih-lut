@@ -18,7 +18,7 @@ The `NIH.lut` file can be downloaded and installed in ImageJ to reproduce the NI
 
 ## Installation
 
-1. Download `NIH.lut` from the [latest release](https://github.com/temeedeeki/nih-lut/releases/latest)
+1. Download [`NIH.lut`](https://github.com/temeedeeki/nih-lut/releases/latest/download/NIH.lut).
 2. Locate your ImageJ installation directory.
 3. Copy `NIH.lut` into the `luts/` directory inside your ImageJ installation.
 4. Restart ImageJ if it is already running.

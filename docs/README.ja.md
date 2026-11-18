@@ -18,7 +18,7 @@ AMIDEを基にした、ImageJ用のNIHカラーマップ・ルックアップテ
 
 ## インストール方法
 
-1. [最新のリリース](https://github.com/temeedeeki/nih-lut/releases/latest)から`NIH.lut`をダウンロードします。
+1. [`NIH.lut`](https://github.com/temeedeeki/nih-lut/releases/latest/download/NIH.lut)をダウンロードします。
 2. ImageJのインストールディレクトリを確認します。
 3. ダウンロードした`NIH.lut`をImageJのインストールディレクトリ内にある`luts/`ディレクトリにコピーします。
 4. ImageJが起動している場合は再起動します。
