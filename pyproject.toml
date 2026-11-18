@@ -1,0 +1,9 @@
+[project]
+name = "nih-lut"
+version = "1.0.0"
+description = "NIH color map look-up table for ImageJ, based on AMIDE"
+readme = "README.md"
+requires-python = ">=3.10"
+license = "GPL-2.0-or-later"
+license-files = ["LICENSE"]
+dependencies = []
