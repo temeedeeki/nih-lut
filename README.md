@@ -19,16 +19,13 @@ The `NIH.lut` file can be downloaded and installed in ImageJ to reproduce the NI
 ## Installation
 
 1. Download [`NIH.lut`](https://github.com/temeedeeki/nih-lut/releases/latest/download/NIH.lut).
-2. Locate your ImageJ installation directory.
-3. Copy `NIH.lut` into the `luts/` directory inside your ImageJ installation.
-4. Restart ImageJ if it is already running.
-
-> [!NOTE]
-> The ImageJ installation directory varies depending on your operating system and installation method (e.g., APT, Fiji, or a standalone installation). Locate the appropriate `luts/` directory manually if necessary.
+2. Open ImageJ and select `File` > `Show Folder` > `LUTs` to open the LUT directory.
+3. Copy the downloaded `NIH.lut` file into the opened directory.
+4. Restart ImageJ.
 
 ## Usage
 
-In ImageJ, select `Image` > `Lookup Tables` > `NIH` to apply the color map.
+Select `Image` > `Lookup Tables` > `NIH` in ImageJ to apply the colormap.
 
 ## Generating the LUT
 
